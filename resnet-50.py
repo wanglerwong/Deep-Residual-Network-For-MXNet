@@ -70,4 +70,3 @@ def get_symbol(num_class=1000):
 	fc = mx.symbol.FullConnected(data=flatten, num_hidden=num_class, name='fc')
 	softmax = mx.symbol.SoftmaxOutput(data=fc, name='softmax')
 	return softmax
-
