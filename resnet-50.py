@@ -3,7 +3,6 @@ Deep Residual Learning for Image Recognition, http://arxiv.org/abs/1512.03385
 
 # write by Huang, 5 Apr 2016
 '''
-
 import mxnet as mx
 import find_mxnet
 
