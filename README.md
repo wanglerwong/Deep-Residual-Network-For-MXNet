@@ -1,1 +1,1 @@
-# Deep-Residual-Network-For-MXNet
+# Frequently-used network structures for mxnet
